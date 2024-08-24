@@ -1,0 +1,32 @@
+body{
+    transition: all .3s;
+}
+
+.body1{
+    background-color: black;
+    color: white;
+}
+
+.btn{
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+img{
+    height: 400px;
+    width: 350px;
+}
+.hidden{
+    opacity: 0;
+}
+.h2{
+    color: red;
+}
+.section1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 20px;
+}
